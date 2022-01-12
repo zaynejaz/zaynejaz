@@ -31,7 +31,7 @@ I design and develop elegant, functional websites, aiming to make businesses mat
     <img align="center" alt="Litmus" height="30" width="40" style="padding-top:8px;"src="https://cdn.svgporn.com/logos/litmus.svg">
     <img align="center" alt="MailChimp" height="30" width="40" style="padding-top:8px;"src="https://cdn.svgporn.com/logos/mailchimp-freddie.svg">
     <img align="center" alt="Adobe CC" height="30" width="40" style="padding-top:8px;"src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Creative_Cloud.svg">
-  <img align="right" alt="ZE-pic" height="145" style="border-radius:50px" src="https://avatars.githubusercontent.com/u/50218403?v=4">
+  <img align="right" alt="ZE-pic" height="145" style="border-radius:50px" src="https://raw.githubusercontent.com/zaynejaz/zaynejaz/master/profile-pic.png">
 </div>
   
   ##
