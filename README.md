@@ -1,5 +1,5 @@
 # Hi, I'm Zayn Ejaz, a creative email and web developer! 
-I design and develop elegant, functional websites, aiming to make businesses matter in today's culture.
+I design and develop elegant, functional websites, aiming to make businesses matter more in today's culture.
 
 &#x276F; &#160;&#160;💌 &#160;&#160;I Love HTML Emails<br>
 &#x276F; &#160;&#160;💎 &#160;&#160;I develop better experiences<br>
@@ -61,7 +61,7 @@ I design and develop elegant, functional websites, aiming to make businesses mat
     </a>      
  <div align="center">
 
-![Snake SVG]()
+![Snake svg](https://github.com/zaynejaz/zaynejaz/blob/output/github-contribution-grid-snake.svg)
  </div>
  
 </div>
